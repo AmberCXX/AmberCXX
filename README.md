@@ -11,7 +11,14 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=$ambercxx.$ambercxx)
 
 ### ML Projects
+💳 Credit Card Fraud Detection
+📃 Walmart Global Tech Support
+💸 Financial Bankruptcy Model
+📷 Imagie Recognition
+🎤 Natural Language Processing
 
+### Business System Development
+💻 Austin Non-Profit: ECHO 
 
 ### Fun Project
 💥 Pharaoh's Phury [Click to Play](https://twit96.github.io/PharaohsPhury_Phaser3/)
